@@ -1,0 +1,6 @@
+1. series and data frames
+2. Missing data
+3. GroupBy
+4. Operations
+5. Data I/O
+6. Exercises

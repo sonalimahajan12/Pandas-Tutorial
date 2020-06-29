@@ -1,0 +1,16 @@
+Series
+
+Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
+
+pandas.Series
+
+A series can be created using various inputs like −
+
+Array
+Dict
+Scalar value or constant
+
+Group By operation involves :
+1.Split
+2. Apply
+3. Combine
